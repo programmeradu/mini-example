@@ -1,5 +1,7 @@
 {
-  "url": "https://ton.vote",
-  "name": "TON Vote",
-  "iconUrl": "https://ton.vote/logo.png"
+  "url": "https://programmeradu.github.io/mini-example",                        
+  "name": "<Mini Example>",                      
+  "iconUrl": "https://ton.vote/logo.png",               
+  "termsOfUseUrl": "<terms-of-use-url>",     
+  "privacyPolicyUrl": "<privacy-policy-url>" 
 }
